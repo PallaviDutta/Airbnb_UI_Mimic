@@ -1,0 +1,31 @@
+
+/* Section1 */
+
+.box-shadow{
+  padding: 2%;
+  width: 400px;
+  height: 450px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: white;
+  border-radius: 1%;
+  
+}
+
+.head1{
+    font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif !important;
+    cursor: pointer;
+    font-size: 30px;
+    color: rgb(72, 72, 72);
+
+}
+
+
+/* Section2 */
+
+.head2{
+    font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif !important;
+    cursor: pointer;
+    font-size: 15px;
+    color: rgb(72, 72, 72);
+
+}
